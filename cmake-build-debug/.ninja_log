@@ -1,0 +1,24 @@
+# ninja log v5
+7119	9704	6735494096789654	src/SearchEngine[1]_tests.cmake	eb3c9566c682cb19
+16006	16099	6734687775750057	lib/libgtest_maind.a	d8a433c794021ede
+34	1924	6734687634024379	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	3be20cd5039b17fc
+5	3820	6739733408387604	src/CMakeFiles/SearchEngine.dir/main.cpp.obj	2668580d337756b9
+27	8635	6739732220453538	src/CMakeFiles/SearchEngine.dir/ConverterJSON.cpp.obj	85e519728137a8e4
+7	11927	6734687733874361	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	272e3a0b59b25a81
+11928	16005	6734687774810058	lib/libgtestd.a	a5cb55d81c61e604
+7119	9704	6735494096789654	src/SearchEngine.exe	eb3c9566c682cb19
+7119	9704	6735494096789654	D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug/src/SearchEngine[1]_tests.cmake	eb3c9566c682cb19
+1	1714	6739734888977517	build.ninja	1c4aa6e5bc5d63e8
+25	1277	6739734919569067	src/CMakeFiles/SearchEngine.dir/SearchServer.cpp.obj	1e27320c2e356a0a
+6	1537	6739734922049427	src/CMakeFiles/SearchEngine.dir/InvertedIndex.cpp.obj	dce445bfcbe86525
+1538	4619	6739734952995405	src/SearchEngine.exe	64c0c1257e20fe10
+1538	4619	6739734952995405	src/SearchEngine[1]_tests.cmake	64c0c1257e20fe10
+1538	4619	6739734952995405	D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug/src/SearchEngine[1]_tests.cmake	64c0c1257e20fe10
+6	971	6739735161052643	src/CMakeFiles/SearchEngine.dir/InvertedIndex.cpp.obj	dce445bfcbe86525
+971	3531	6739735186642564	src/SearchEngine.exe	64c0c1257e20fe10
+971	3531	6739735186642564	src/SearchEngine[1]_tests.cmake	64c0c1257e20fe10
+971	3531	6739735186642564	D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug/src/SearchEngine[1]_tests.cmake	64c0c1257e20fe10
+6	916	6739735266329246	src/CMakeFiles/SearchEngine.dir/InvertedIndex.cpp.obj	dce445bfcbe86525
+917	3550	6739735292653586	src/SearchEngine.exe	64c0c1257e20fe10
+917	3550	6739735292653586	src/SearchEngine[1]_tests.cmake	64c0c1257e20fe10
+917	3550	6739735292653586	D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug/src/SearchEngine[1]_tests.cmake	64c0c1257e20fe10

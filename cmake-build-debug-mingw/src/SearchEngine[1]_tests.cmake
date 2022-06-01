@@ -1,0 +1,7 @@
+add_test( TestCaseInvertedIndex.TestBasic [==[D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src/SearchEngine.exe]==] [==[--gtest_filter=TestCaseInvertedIndex.TestBasic]==] --gtest_also_run_disabled_tests)
+set_tests_properties( TestCaseInvertedIndex.TestBasic PROPERTIES WORKING_DIRECTORY [==[D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( TestCaseInvertedIndex.TestBasic2 [==[D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src/SearchEngine.exe]==] [==[--gtest_filter=TestCaseInvertedIndex.TestBasic2]==] --gtest_also_run_disabled_tests)
+set_tests_properties( TestCaseInvertedIndex.TestBasic2 PROPERTIES WORKING_DIRECTORY [==[D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( TestCaseInvertedIndex.TestInvertedIndexMissingWord [==[D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src/SearchEngine.exe]==] [==[--gtest_filter=TestCaseInvertedIndex.TestInvertedIndexMissingWord]==] --gtest_also_run_disabled_tests)
+set_tests_properties( TestCaseInvertedIndex.TestInvertedIndexMissingWord PROPERTIES WORKING_DIRECTORY [==[D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( SearchEngine_TESTS TestCaseInvertedIndex.TestBasic TestCaseInvertedIndex.TestBasic2 TestCaseInvertedIndex.TestInvertedIndexMissingWord)

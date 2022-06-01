@@ -1,0 +1,29 @@
+# ninja log v5
+27	2171	6748391438242406	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	e933f829b244ba0b
+33	1071	6747640009694925	src/CMakeFiles/SearchEngine.dir/SearchServer.cpp.obj	45574ebd0b6ccec
+29	1672	6747640015704937	src/CMakeFiles/SearchEngine.dir/InvertedIndex.cpp.obj	3f69f8eb195db8fa
+29	2126	6744227061403399	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	65d785d47251587c
+17795	17898	6744227219135050	lib/libgtest_maind.a	d8a433c794021ede
+6	3825	6748392317577129	src/CMakeFiles/SearchEngine.dir/main.cpp.obj	fa034139bf973288
+1186	10153	6744227141533425	src/CMakeFiles/SearchEngine.dir/ConverterJSON.cpp.obj	fec97e5565ac4a
+6	13696	6744227176913412	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	4b54f1fb7e4d6890
+13696	17794	6744227218055583	lib/libgtestd.a	a5cb55d81c61e604
+4811	4899	6748391465541554	lib/libgmock_maind.a	6e006c6db7f9f098
+3825	11619	6748392395507066	src/SearchEngine.exe	12891d1b2039d7d3
+3825	11619	6748392395507066	src/SearchEngine[1]_tests.cmake	12891d1b2039d7d3
+3825	11619	6748392395507066	D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src/SearchEngine[1]_tests.cmake	12891d1b2039d7d3
+5	4039	6748391456872387	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	c15ce73961c1fca2
+4040	4810	6748391464602095	lib/libgmockd.a	1078c6015676c42e
+256	5908	6748390721757863	src/CMakeFiles/SearchEngine.dir/__/test/test_InvertedIndex.cpp.obj	72d03f47ef70ce26
+44	1445	6748408314446128	src/CMakeFiles/SearchEngine.dir/SearchServer.cpp.obj	45574ebd0b6ccec
+36	2202	6748408322106117	src/CMakeFiles/SearchEngine.dir/InvertedIndex.cpp.obj	3f69f8eb195db8fa
+40	3318	6748408333263228	src/CMakeFiles/SearchEngine.dir/__/test/test_InvertedIndex.cpp.obj	72d03f47ef70ce26
+8	4576	6748408345855652	src/CMakeFiles/SearchEngine.dir/main.cpp.obj	fa034139bf973288
+32	7952	6748408379495245	src/CMakeFiles/SearchEngine.dir/ConverterJSON.cpp.obj	fec97e5565ac4a
+7952	15315	6748408453230641	src/SearchEngine.exe	12891d1b2039d7d3
+7952	15315	6748408453230641	src/SearchEngine[1]_tests.cmake	12891d1b2039d7d3
+7952	15315	6748408453230641	D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src/SearchEngine[1]_tests.cmake	12891d1b2039d7d3
+7	3688	6748408919645704	src/CMakeFiles/SearchEngine.dir/main.cpp.obj	fa034139bf973288
+3689	10494	6748408987691664	src/SearchEngine.exe	12891d1b2039d7d3
+3689	10494	6748408987691664	src/SearchEngine[1]_tests.cmake	12891d1b2039d7d3
+3689	10494	6748408987691664	D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw/src/SearchEngine[1]_tests.cmake	12891d1b2039d7d3

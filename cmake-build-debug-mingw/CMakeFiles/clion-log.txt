@@ -1,0 +1,5 @@
+"D:\forWork\IDE\Clion\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/forWork/IDE/Clion/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja -S "D:\forWork\MoonUif Inc\Search Engine\Search Engine" -B "D:\forWork\MoonUif Inc\Search Engine\Search Engine\cmake-build-debug-mingw"
+-- Using the single-header code from D:/forWork/MoonUif Inc/Search Engine/Search Engine/nlohmann_json/single_include/
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/forWork/MoonUif Inc/Search Engine/Search Engine/cmake-build-debug-mingw
